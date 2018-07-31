@@ -1,1 +1,1 @@
-# publicChain
+# Building Blockchain in Go
